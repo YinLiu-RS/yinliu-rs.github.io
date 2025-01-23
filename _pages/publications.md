@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: † denotes equal contribution. 
-See my [Google Scholar profile](https://scholar.google.com/citations?user=orRK6ooAAAAJ&hl=en) for the latest publications.
+ See my [Google Scholar profile](https://scholar.google.com/citations?user=orRK6ooAAAAJ&hl=en) for the latest publications.
 nav: true
 nav_order: 2
 ---
