@@ -8,7 +8,8 @@ profile:
   align: right
   image: YinLiu.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > yinl3 [at] illinois [dot] edu
+  more_info: |
+    yinl3 [at] illinois [dot] edu
     <p>1038 Natural History Building</p>
     <p>1301 W Green Street</p>
     <p>Urbana, IL 61801</p>
