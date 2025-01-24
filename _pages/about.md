@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: YinLiu.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: |
     yinl3 [at] illinois [dot] edu
     <p>1038 Natural History Building</p>
