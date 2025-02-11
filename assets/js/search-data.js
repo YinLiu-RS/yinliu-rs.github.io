@@ -52,14 +52,14 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-my-new-paper-cropsow-an-integrative-remotely-sensed-crop-modeling-framework-for-field-level-crop-planting-date-estimation-is-now-online-at-isprs-journal-of-photogrammetry-and-remote-sensing",
+    },{id: "news-my-new-paper-cropsow-an-integrative-remotely-sensed-crop-modeling-framework-for-field-level-crop-planting-date-estimation-is-now-online-at-isprs-journal-of-photogrammetry-and-remote-sensing",
           title: 'My new paper “CropSow: An integrative remotely sensed crop modeling framework for field-level...',
           description: "",
           section: "News",},{id: "news-my-new-paper-cropsight-towards-a-large-scale-operational-framework-for-object-based-crop-type-ground-truth-retrieval-using-street-view-and-planetscope-satellite-imagery-is-now-online-at-isprs-journal-of-photogrammetry-and-remote-sensing",
           title: 'My new paper “CropSight: Towards a large-scale operational framework for object-based crop type...',
+          description: "",
+          section: "News",},{id: "news-i-will-present-a-poster-on-crop-harvesting-date-detection-at-agu-2024-fall-meeting-see-you-in-washington-d-c",
+          title: 'I will present a poster on crop harvesting date detection at AGU 2024...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
