@@ -7,9 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-# University of Illinois Urbana-Champaign
+<h2 style="font-size: 1.5rem; margin-top: 1rem;">
+  University of Illinois Urbana-Champaign
+</h2>
 
-## [GGIS 489 – Programming for GIS](https://courses.illinois.edu/schedule/2024/spring/GGIS/489), Instructor, Spring 2024
+<h3 style="font-size: 1.2rem; margin-bottom: 0.2rem;">
+  <a href="https://courses.illinois.edu/schedule/2024/spring/GGIS/489" target="_blank">
+    GGIS 489 – Programming for GIS
+  </a>, Instructor, Spring 2024
+</h3>
 
 **Course Description:**  
 This course introduces the fundamentals of R programming for spatial data manipulation and analysis. Students develop practical skills for working with geospatial data in R, enabling informed decision-making and insightful spatial interpretations. The course culminates in an extensive project where students conduct spatial analysis related to their own research.
@@ -19,7 +25,11 @@ This course introduces the fundamentals of R programming for spatial data manipu
 
 ---
 
-## [GGIS 379 – Introduction to GIS](https://courses.illinois.edu/schedule/2022/fall/GGIS/379), Graduate Teaching Assistant, Fall 2022
+<h3 style="font-size: 1.2rem; margin-bottom: 0.2rem;">
+  <a href="https://courses.illinois.edu/schedule/2022/fall/GGIS/379" target="_blank">
+    GGIS 379 – Introduction to GIS
+  </a>, Graduate Teaching Assistant, Fall 2022
+</h3>
 
 **Course Description:**  
 This course covers the foundational principles of Geographic Information Systems (GIS), including geographic data theory, map projections, coordinate systems, and thematic map creation. Students gain hands-on experience using industry-standard GIS software.
