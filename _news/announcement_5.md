@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2025-3-30 07:59:00-0400
+date: 2025-4-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I won the second place in the Student Honors Paper Competition in the AAG Annual Meeting (2025), organized by the Remote Sensing Specialty Group (RSSG). My paper presentation is “A novel Harvest Phenology Index (HPI) for corn and soybean harvesting date mapping using Landsat and Sentinel-2 imagery on Google Earth Engine”.
+I’m honored to share that I’ve been selected as a  <a href="https://taylorgeospatial.org/taylor-geospatial-institute-announces-next-round-of-planet-fellowship-program/" 
+     style="text-decoration: none; font-weight: bold;" target="_blank">
+    Planet Fellow</a> by the Taylor Geospatial Institute for the 2025–2026 fellowship year!
