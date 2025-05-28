@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching Experience
-description: A collection of materials and insights from the courses I have taught.
 nav: true
 nav_order: 6
 ---
