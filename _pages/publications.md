@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: >
-  † denotes equal contribution.<br>
-  See my <a href="https://scholar.google.com/citations?user=orRK6ooAAAAJ&hl=en" target="_blank">Google Scholar profile</a> for the latest publications.
+  † denotes equal contribution.
+  See my Google Scholar profile for the latest publications.
 nav: true
 nav_order: 2
 ---
