@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m honored to share that I’ve been selected as a <a href='https://www.sciencedirect.com/science/article/abs/pii/S0924271623001776' target='_blank'><strong>Planet Fellow</strong></a> by the Taylor Geospatial Institute for the 2025–2026 fellowship year!
+I’m honored to share that I’ve been selected as a <a href='https://taylorgeospatial.org/taylor-geospatial-institute-announces-next-round-of-planet-fellowship-program/' target='_blank'><strong>Planet Fellow</strong></a> by the Taylor Geospatial Institute for the 2025–2026 fellowship year!
